@@ -1,0 +1,27 @@
+body{
+    background-color: #F1FEA4;
+    color: #1C44AC;
+}
+
+
+#mainhead {
+    font-family: cursive;
+    font-size: 5em;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: red;
+}
+h1{
+    font-size:4em;
+}
+h2{
+    font-size:3em;
+}
+h3{
+    font-size:2em;
+}
