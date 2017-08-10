@@ -6,6 +6,9 @@
     </title>
     <link rel="stylesheet" type="text/css" href="/styles.css">
 </head>
+    <div class="menu">
+    <?php include ('menu.php');?>
+    </div>
 <body>
     <h1>External Links</h1>
     <h2><a href="https://en.wikipedia.org/wiki/Chelsea_F.C.">Wikipedia</a></h2>
@@ -18,15 +21,5 @@
     <h2><a href="http://www.espnfc.us/club/chelsea/363/index">ESPN FC</a></h2>
     <img class="pics" src="chelseaespnfc.png" alt="espn FC screenshot" height="300">
     <p>You can find news and other interesting statistics about Chelsea here.</p>
-    
-    
-    
-    
-    <h3>Navigation Section</h3>
-    <ul>
-        <li><a href="/index.html">Homepage</a></li>
-        <li><a href="/external-links.html">External Links</a></li>
-        <li><a href="/basicinfo.html">Basic Info</a></li>
-        <li><a href="/bestplayers.html">Best Players</a></li>
-    </ul>
+
 </body>

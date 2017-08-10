@@ -7,6 +7,11 @@
     <link rel="stylesheet" type="text/css" href="/styles.css">
 </head>
 <body>
+
+    <div class="menu">
+    <?php include ('menu.php');?>
+    </div>
+
     <h1>Basic Info</h1>
     <ul>
         <li>Founded in 1905</li>
@@ -22,16 +27,4 @@
         <li>Last title won: 2016/2017 Season</li>
         
     </ul>
-    
-    
-    
-    
-    <h3>Navigation Section</h3>
-    <ul>
-        <li><a href="/index.html">Homepage</a></li>
-        <li><a href="/external-links.html">External Links</a></li>
-        <li><a href="/basicinfo.html">Basic Info</a></li>
-        <li><a href="/bestplayers.html">Best Players</a></li>
-    </ul>
-    
 </body>

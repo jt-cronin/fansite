@@ -7,6 +7,11 @@
     <link rel="stylesheet" type="text/css" href="/styles.css">
 </head>
 <body>
+    
+    <div class="menu">
+    <?php include ('menu.php');?>
+    </div>
+
     <h1>Best players</h1>
     <p>There are many great players in the history of Chelsea. There are too many to name all of them so I chose
     instead ot only pick what I think to be are the top five. Here is a list of the top five players to every play for Chelsea FC.</p>
@@ -56,15 +61,4 @@
     </ol>
     
     <img src="/photo.jpg" alt="photo of Cronin">
-    
-    
-    
-    
-    <h3>Navigation Section</h3>
-    <ul>
-        <li><a href="/index.html">Homepage</a></li>
-        <li><a href="/external-links.html">External Links</a></li>
-        <li><a href="/basicinfo.html">Basic Info</a></li>
-        <li><a href="/bestplayers.html">Best Players</a></li>
-    </ul>
 </body>
