@@ -60,5 +60,5 @@
         
     </ol>
     
-    <img src="/photo.jpg" alt="photo of Cronin">
+    <img src="/images/photo copy.jpg" alt="photo of Cronin">
 </body>
